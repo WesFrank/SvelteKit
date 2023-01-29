@@ -1,0 +1,17 @@
+{
+	"/": [
+		"src/routes/+page.js"
+	],
+	"/CRUD": [
+		"src/routes/CRUD/+server.js"
+	],
+	"/api/random-number": [
+		"src/routes/api/random-number/+server.js"
+	],
+	"/expenses": [
+		"src/routes/expenses/+page.server.js"
+	],
+	"/expenses/getting-started": [
+		"src/routes/expenses/getting-started/+page.js"
+	]
+}

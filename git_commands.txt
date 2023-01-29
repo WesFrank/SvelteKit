@@ -1,0 +1,12 @@
+
+git init
+
+git add .
+
+git commit -m "Added Functionality for Expenses Application to Insert Data Into MongoDB Database. Still requires building the Functionality for fetching the Data from the MongoDB Database. Another features that needs improvement is that the application should use api endpoints to insert data into the database, and perform other requests, etc. Apparently SvelteKit had Major updates recently in 2021 and it makes the process really hard for beginners with a relatively small community base and some of the information on the internet, especially tutorials, are from before the updates. The implication is that you have to read much more into the documentation and try and figure it out."
+
+git remote add origin https://github.com/WesFrank/<ProjectName>.git
+
+git branch -M main / git branch -M master
+
+git push -u origin main / git push -u origin master

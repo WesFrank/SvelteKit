@@ -1,0 +1,5 @@
+npm init svelte@next
+
+npm install // install default node modules/dependencies
+
+npm i -D @sveltejs/adapter-vercel@next
